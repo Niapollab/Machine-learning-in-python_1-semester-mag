@@ -9,3 +9,8 @@ scikit-learn
 fasttext-wheel
 catboost
 nltk
+requests
+transformers
+torch
+transformers[torch]
+ipywidgets
