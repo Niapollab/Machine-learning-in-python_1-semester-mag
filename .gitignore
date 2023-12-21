@@ -163,3 +163,7 @@ cython_debug/
 train.txt
 test.txt
 catboost_info/
+
+# Ignore Lab3 output directory
+guberai/
+data/cached_*
